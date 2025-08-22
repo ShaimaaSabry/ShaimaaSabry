@@ -68,8 +68,7 @@ Feel free to explore my projects and learn along the way!
 <!-- Architecture -->
 ![DDD](https://img.shields.io/badge/-?style=for-the-badge&logo=architecture&logoColor=FFB300 "DDD")
 ![Clean Architecture](https://img.shields.io/badge/-?style=for-the-badge&logo=architecture&logoColor=007ACC "Clean Architecture")
-![Microservices](https://img.shields.io/badge/-?style=for-the-badge&logo=architect)
-
+![Microservices](https://img.shields.io/badge/-?style=for-the-badge&logo=architecture&logoColor=FF6C37 "Microservices")
 
 
 ---
