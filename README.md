@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ShaimaaSabry/ShaimaaSabry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,65 +13,55 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Welcome to My GitHub
+# Hi there 👋 Welcome to my GitHub!
 
 I’m Shaimaa — a Software Engineer passionate about building scalable systems and helping others learn system design, software architecture, and modern technologies.  
 
 Feel free to explore my projects and learn along the way!
 
----
-
 ## ⚡ Tech Stack
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="Postgres" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="Elasticsearch" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" height="28" alt="DynamoDB" />
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white "Go")
+![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white "Gin")
+![Gorm](https://img.shields.io/badge/-Gorm-0B4F8C?style=for-the-badge&logo=gorm&logoColor=white "Gorm")
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white "Kotlin")
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white "Java")
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white "Spring Boot")
+![Micronaut](https://img.shields.io/badge/-Micronaut-FF6C37?style=for-the-badge&logo=micronaut&logoColor=white "Micronaut")
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white "Hibernate")
+![JPA](https://img.shields.io/badge/-JPA-FF4088?style=for-the-badge&logo=java&logoColor=white "JPA")
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white "MySQL")
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white "Redis")
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white "Elasticsearch")
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white "DynamoDB")
+![Databricks](https://img.shields.io/badge/-Databricks-FC6D26?style=for-the-badge&logo=databricks&logoColor=white "Databricks")
+![Spark](https://img.shields.io/badge/-ApacheSpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white "Apache Spark")
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")
+![GCP](https://img.shields.io/badge/-GCP-FC6D26?style=for-the-badge&logo=googlecloud&logoColor=white "GCP")
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white "Terraform")
+![GitHub Actions](https://img.shields.io/badge/-GitHubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white "GitHub Actions")
+![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white "CircleCI")
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white "GitLab CI/CD")
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white "Docker")
+![Docker Compose](https://img.shields.io/badge/-DockerCompose-2496ED?style=for-the-badge&logo=docker&logoColor=white "Docker Compose")
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white "Kubernetes")
+![k6](https://img.shields.io/badge/-k6-FF5C5C?style=for-the-badge&logo=k6&logoColor=white "k6")
+![REST Assured](https://img.shields.io/badge/-RESTAssured-5E5E5E?style=for-the-badge&logo=java&logoColor=white "REST Assured")
+![JUnit](https://img.shields.io/badge/-JUnit-C21325?style=for-the-badge&logo=junit5&logoColor=white "JUnit")
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python")
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white "Flask")
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white "SQLAlchemy")
+![Mockito](https://img.shields.io/badge/-Mockito-43B02A?style=for-the-badge&logo=java&logoColor=white "Mockito")
+![MockK](https://img.shields.io/badge/-MockK-43B02A?style=for-the-badge&logo=kotlin&logoColor=white "MockK")
+![Hamcrest](https://img.shields.io/badge/-Hamcrest-008000?style=for-the-badge&logo=java&logoColor=white "Hamcrest")
+![WireMock](https://img.shields.io/badge/-WireMock-0099FF?style=for-the-badge&logo=java&logoColor=white "WireMock")
+![Locust](https://img.shields.io/badge/-Locust-5A9B9B?style=for-the-badge&logo=python&logoColor=white "Locust")
+![Tavern](https://img.shields.io/badge/-Tavern-5E5E5E?style=for-the-badge&logo=python&logoColor=white "Tavern")
+![DDD](https://img.shields.io/badge/-DDD-FFB300?style=for-the-badge&logo=architecture&logoColor=white "DDD")
+![Clean Architecture](https://img.shields.io/badge/-CleanArchitecture-007ACC?style=for-the-badge&logo=architecture&logoColor=white "Clean Architecture")
+![Microservices](https://img.shields.io/badge/-Microservices-FF6C37?style=for-the-badge&logo=architecture&logoColor=white "Microservices")
 
-  <!-- Data/Big Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="28" alt="Databricks" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="28" alt="Spark" />
-
-  <!-- Cloud & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="28" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" height="28" alt="CircleCI" />
-  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" height="28" alt="GitLab CI/CD" />
-
-  <!-- Testing -->
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="28" alt="JUnit" />
-  <img src="https://img.shields.io/badge/Mockito-DB7093?style=for-the-badge&logo=mockito&logoColor=white" height="28" alt="Mockito" />
-  <img src="https://img.shields.io/badge/MockK-FF9900?style=for-the-badge&logo=kotlin&logoColor=white" height="28" alt="MockK" />
-  <img src="https://img.shields.io/badge/WireMock-3DDC84?style=for-the-badge&logo=wiremock&logoColor=white" height="28" alt="WireMock" />
-  <img src="https://img.shields.io/badge/REST%20Assured-005571?style=for-the-badge" height="28" alt="REST Assured" />
-  <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" height="28" alt="k6" />
-  <img src="https://img.shields.io/badge/Locust-000000?style=for-the-badge&logo=locust&logoColor=white" height="28" alt="Locust" />
-  <img src="https://img.shields.io/badge/Tavern-FF6F00?style=for-the-badge&logo=pytest&logoColor=white" height="28" alt="Tavern" />
-  <img src="https://img.shields.io/badge/Hamcrest-FF4081?style=for-the-badge" height="28" alt="Hamcrest" />
-
-  <!-- Architecture -->
-  <img src="https://img.shields.io/badge/Domain--Driven%20Design-0A66C2?style=for-the-badge" height="28" alt="DDD" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-1E90FF?style=for-the-badge" height="28" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/Microservices-FF1493?style=for-the-badge" height="28" alt="Microservices" />
-</p>
 
 ---
 
