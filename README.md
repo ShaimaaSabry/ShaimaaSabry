@@ -24,11 +24,9 @@ Feel free to explore my projects and learn along the way!
 <!-- Languages -->
 ![Go](https://img.shields.io/badge/-?style=for-the-badge&logo=go&logoColor=00ADD8 "Go")
 ![Gin](https://img.shields.io/badge/-?style=for-the-badge&logo=gin&logoColor=00ADD8 "Gin")
-![Gorm](https://img.shields.io/badge/-?style=for-the-badge&logo=gorm&logoColor=0B4F8C "Gorm")
 ![Kotlin](https://img.shields.io/badge/-?style=for-the-badge&logo=kotlin&logoColor=0095D5 "Kotlin")
 ![Java](https://img.shields.io/badge/-?style=for-the-badge&logo=java&logoColor=007396 "Java")
 ![Spring Boot](https://img.shields.io/badge/-?style=for-the-badge&logo=springboot&logoColor=6DB33F "Spring Boot")
-![Micronaut](https://img.shields.io/badge/-?style=for-the-badge&logo=micronaut&logoColor=FF6C37 "Micronaut")
 ![Python](https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=3776AB "Python")
 ![Flask](https://img.shields.io/badge/-?style=for-the-badge&logo=flask&logoColor=000000 "Flask")
 
@@ -39,36 +37,19 @@ Feel free to explore my projects and learn along the way!
 ![Elasticsearch](https://img.shields.io/badge/-?style=for-the-badge&logo=elasticsearch&logoColor=005571 "Elasticsearch")
 ![DynamoDB](https://img.shields.io/badge/-?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6 "DynamoDB")
 ![Databricks](https://img.shields.io/badge/-?style=for-the-badge&logo=databricks&logoColor=FC6D26 "Databricks")
-![Spark](https://img.shields.io/badge/-?style=for-the-badge&logo=apache-spark&logoColor=E25A1C "Apache Spark")
+![Apache Spark](https://img.shields.io/badge/-?style=for-the-badge&logo=apache-spark&logoColor=E25A1C "Apache Spark")
 
 <!-- Cloud & Infra -->
 ![AWS](https://img.shields.io/badge/-?style=for-the-badge&logo=amazon-aws&logoColor=232F3E "AWS")
 ![GCP](https://img.shields.io/badge/-?style=for-the-badge&logo=googlecloud&logoColor=4285F4 "GCP")
 ![Terraform](https://img.shields.io/badge/-?style=for-the-badge&logo=terraform&logoColor=7B42BC "Terraform")
 ![Docker](https://img.shields.io/badge/-?style=for-the-badge&logo=docker&logoColor=2496ED "Docker")
-![Docker Compose](https://img.shields.io/badge/-?style=for-the-badge&logo=docker&logoColor=2496ED "Docker Compose")
 ![Kubernetes](https://img.shields.io/badge/-?style=for-the-badge&logo=kubernetes&logoColor=326CE5 "Kubernetes")
 
 <!-- CI/CD -->
 ![GitHub Actions](https://img.shields.io/badge/-?style=for-the-badge&logo=githubactions&logoColor=2088FF "GitHub Actions")
 ![CircleCI](https://img.shields.io/badge/-?style=for-the-badge&logo=circleci&logoColor=343434 "CircleCI")
-![GitLab CI/CD](https://img.shields.io/badge/-?style=for-the-badge&logo=gitlab&logoColor=FC6D26 "GitLab CI/CD")
-
-<!-- Testing & Monitoring -->
-![JUnit](https://img.shields.io/badge/-?style=for-the-badge&logo=junit5&logoColor=C21325 "JUnit")
-![REST Assured](https://img.shields.io/badge/-?style=for-the-badge&logo=java&logoColor=5E5E5E "REST Assured")
-![Mockito](https://img.shields.io/badge/-?style=for-the-badge&logo=java&logoColor=43B02A "Mockito")
-![MockK](https://img.shields.io/badge/-?style=for-the-badge&logo=kotlin&logoColor=43B02A "MockK")
-![Hamcrest](https://img.shields.io/badge/-?style=for-the-badge&logo=java&logoColor=008000 "Hamcrest")
-![WireMock](https://img.shields.io/badge/-?style=for-the-badge&logo=java&logoColor=0099FF "WireMock")
-![k6](https://img.shields.io/badge/-?style=for-the-badge&logo=k6&logoColor=FF5C5C "k6")
-![Locust](https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=5A9B9B "Locust")
-![Tavern](https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=5E5E5E "Tavern")
-
-<!-- Architecture -->
-![DDD](https://img.shields.io/badge/-?style=for-the-badge&logo=architecture&logoColor=FFB300 "DDD")
-![Clean Architecture](https://img.shields.io/badge/-?style=for-the-badge&logo=architecture&logoColor=007ACC "Clean Architecture")
-![Microservices](https://img.shields.io/badge/-?style=for-the-badge&logo=architecture&logoColor=FF6C37 "Microservices")
+![GitLab](https://img.shields.io/badge/-?style=for-the-badge&logo=gitlab&logoColor=FC6D26 "GitLab")
 
 
 ---
