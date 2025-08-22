@@ -22,34 +22,23 @@ Feel free to explore my projects and learn along the way!
 ## ⚡ Tech Stack
 
 <!-- Languages -->
-![Go](https://img.shields.io/badge/-?style=for-the-badge&logo=go&logoColor=00ADD8 "Go")
-![Gin](https://img.shields.io/badge/-?style=for-the-badge&logo=gin&logoColor=00ADD8 "Gin")
-![Kotlin](https://img.shields.io/badge/-?style=for-the-badge&logo=kotlin&logoColor=0095D5 "Kotlin")
-![Java](https://img.shields.io/badge/-?style=for-the-badge&logo=java&logoColor=007396 "Java")
-![Spring Boot](https://img.shields.io/badge/-?style=for-the-badge&logo=springboot&logoColor=6DB33F "Spring Boot")
-![Python](https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=3776AB "Python")
-![Flask](https://img.shields.io/badge/-?style=for-the-badge&logo=flask&logoColor=000000 "Flask")
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" title="Go" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gin/gin-original.svg" alt="Gin" title="Gin" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="30"/>
 
 <!-- Databases -->
-![PostgreSQL](https://img.shields.io/badge/-?style=for-the-badge&logo=postgresql&logoColor=336791 "PostgreSQL")
-![MySQL](https://img.shields.io/badge/-?style=for-the-badge&logo=mysql&logoColor=4479A1 "MySQL")
-![Redis](https://img.shields.io/badge/-?style=for-the-badge&logo=redis&logoColor=DC382D "Redis")
-![Elasticsearch](https://img.shields.io/badge/-?style=for-the-badge&logo=elasticsearch&logoColor=005571 "Elasticsearch")
-![DynamoDB](https://img.shields.io/badge/-?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6 "DynamoDB")
-![Databricks](https://img.shields.io/badge/-?style=for-the-badge&logo=databricks&logoColor=FC6D26 "Databricks")
-![Apache Spark](https://img.shields.io/badge/-?style=for-the-badge&logo=apache-spark&logoColor=E25A1C "Apache Spark")
-
-<!-- Cloud & Infra -->
-![AWS](https://img.shields.io/badge/-?style=for-the-badge&logo=amazon-aws&logoColor=232F3E "AWS")
-![GCP](https://img.shields.io/badge/-?style=for-the-badge&logo=googlecloud&logoColor=4285F4 "GCP")
-![Terraform](https://img.shields.io/badge/-?style=for-the-badge&logo=terraform&logoColor=7B42BC "Terraform")
-![Docker](https://img.shields.io/badge/-?style=for-the-badge&logo=docker&logoColor=2496ED "Docker")
-![Kubernetes](https://img.shields.io/badge/-?style=for-the-badge&logo=kubernetes&logoColor=326CE5 "Kubernetes")
-
-<!-- CI/CD -->
-![GitHub Actions](https://img.shields.io/badge/-?style=for-the-badge&logo=githubactions&logoColor=2088FF "GitHub Actions")
-![CircleCI](https://img.shields.io/badge/-?style=for-the-badge&logo=circleci&logoColor=343434 "CircleCI")
-![GitLab](https://img.shields.io/badge/-?style=for-the-badge&logo=gitlab&logoColor=FC6D26 "GitLab")
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" title="Elasticsearch" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" title="AWS" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" title="GCP" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" width="30"/>
 
 
 ---
