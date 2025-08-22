@@ -22,23 +22,7 @@ Feel free to explore my projects and learn along the way!
 ## ⚡ Tech Stack
 
 <!-- Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" title="Go" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gin/gin-original.svg" alt="Gin" title="Gin" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="30"/>
-
-<!-- Databases -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" title="Elasticsearch" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" title="AWS" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" title="GCP" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" width="30"/>
+[!Go](https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png "Go")
 
 
 ---
