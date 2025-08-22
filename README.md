@@ -22,7 +22,11 @@ Feel free to explore my projects and learn along the way!
 ## ⚡ Tech Stack
 
 <!-- Languages -->
-[!Go](https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png "Go")
+<a href="https://golang.org" title="Go">
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="100" height="100" alt="Go"/>
+</a>
+
+
 
 
 ---
@@ -45,7 +49,9 @@ Prepare for your system design interviews with practical implementations of well
 
 ---
 
-## 🚀 Learn Go
+## 🚀 Learn Go <a href="https://golang.org" title="Go"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="40" height="40" alt="Go"/></a>
+
+
 Hands-on projects to strengthen your Go skills:
 
 * [Recipes](https://github.com/ShaimaaSabry/recipes)
