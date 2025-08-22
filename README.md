@@ -19,26 +19,25 @@ I’m Shaimaa — a Software Engineer passionate about building scalable systems
 
 Feel free to explore my projects and learn along the way!
 
-## ⚡ Tech Stack
+### ⚡ Tech Stack
 
 <!-- Languages -->
 <a href="https://golang.org" title="Go">
   <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="100" height="100" alt="Go"/>
 </a>
 
+<hr style="border: 1px solid #ccc;">
 
 
-
----
-
-## 🏗 Learn Software Architecture
+### 🏗 Learn Software Architecture
 Discover some of the most widely used architecture styles: modular monolith, event-driven architecture, clean architecture, and domain-driven design.
 
 * [Clinic](https://github.com/ShaimaaSabry/clinic-modular-monolith)
 
----
 
-## 🧩 Learn System Design
+<hr style="border: 1px solid #ccc;">
+
+### 🧩 Learn System Design
 Prepare for your system design interviews with practical implementations of well-known apps:
 
 * [Typeahead](https://github.com/ShaimaaSabry/typeahead)
@@ -47,9 +46,9 @@ Prepare for your system design interviews with practical implementations of well
 * [Yelp](https://github.com/ShaimaaSabry/yelp)
 * [Cache](https://github.com/ShaimaaSabry/cache)
 
----
+<hr style="border: 1px solid #ccc;">
 
-## 🚀 Learn Go <a href="https://golang.org" title="Go"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="40" height="40" alt="Go"/></a>
+### 🚀 Learn Go <a href="https://golang.org" title="Go"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="40" height="40" alt="Go"/></a>
 
 
 Hands-on projects to strengthen your Go skills:
@@ -57,11 +56,12 @@ Hands-on projects to strengthen your Go skills:
 * [Recipes](https://github.com/ShaimaaSabry/recipes)
 * [To-Do](https://github.com/ShaimaaSabry/todo)
 
----
+  
+<hr style="border: 1px solid #ccc;">
 
-## ☕ Learn Kotlin
+### ☕ Learn Kotlin
 Explore Kotlin through fun and practical examples:
 
 * [Micromorts](https://github.com/ShaimaaSabry/Micromorts)
 
----
+
