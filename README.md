@@ -77,8 +77,8 @@ Prepare for your system design interviews with practical implementations of well
 <a href="https://github.com/ShaimaaSabry/yelp" title="Yelp">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Yelp_Logo.svg/2560px-Yelp_Logo.svg.png" alt="Yelp" height="100">
 </a>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/ShaimaaSabry/cache" title="cache">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx099QIe9XeS66WcARxiKvuJfAmHECMuOKiqTcb8Mu8QZSuCyf3OZsyhZIs-0Xbqodz24&usqp=CAU" alt="cache" height="100">
 </a>
