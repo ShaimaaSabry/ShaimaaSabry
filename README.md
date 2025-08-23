@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋 Welcome to my GitHub!
+# Welcome to my GitHub! 👋 
 
 I’m Shaimaa — a Software Engineer passionate about building scalable systems and helping others learn system design, software architecture, and modern technologies.  
 
@@ -47,10 +47,7 @@ Feel free to explore my projects and learn along the way!
   <img src="https://avatars.githubusercontent.com/u/19369327?v=4" height="50" alt="REST-assured">
 </a>
 
-
-
-<hr style="border: 1px solid #ccc;">
-
+---
 
 ### 🏗 Learn Software Architecture
 Discover some of the most widely used architecture styles: modular monolith, event-driven architecture, clean architecture, and domain-driven design.
@@ -63,13 +60,32 @@ Discover some of the most widely used architecture styles: modular monolith, eve
 ### 🧩 Learn System Design
 Prepare for your system design interviews with practical implementations of well-known apps:
 
-* [Typeahead](https://github.com/ShaimaaSabry/typeahead)
-* [TinyUrl](https://github.com/ShaimaaSabry/tiny-url)
-* [Twitter](https://github.com/ShaimaaSabry/twitter)
-* [Yelp](https://github.com/ShaimaaSabry/yelp)
-* [Cache](https://github.com/ShaimaaSabry/cache)
+<a href="https://github.com/ShaimaaSabry/typeahead" title="typeahead">
+  <img src="https://www.tutorialrepublic.com/lib/images/bootstrap-5/twitter-typeahead.png" alt="typeahead" height="100">
+</a>
 
-<hr style="border: 1px solid #ccc;">
+<a href="https://github.com/ShaimaaSabry/tiny-url" title="TinyURL">
+  <img src="https://cdn6.aptoide.com/imgs/3/6/9/3692fe5c188d207dc974032cf24a6742_icon.png" alt="TinyURL" height="140">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/ShaimaaSabry/twitter" title="Twitter">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1200px-Logo_of_Twitter.svg.png" alt="Twitter" height="100">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/ShaimaaSabry/yelp" title="Yelp">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Yelp_Logo.svg/2560px-Yelp_Logo.svg.png" alt="Yelp" height="100">
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ShaimaaSabry/cache" title="cache">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx099QIe9XeS66WcARxiKvuJfAmHECMuOKiqTcb8Mu8QZSuCyf3OZsyhZIs-0Xbqodz24&usqp=CAU" alt="cache" height="100">
+</a>
+
+
+
+---
 
 ### 🚀 Learn Go 
 
@@ -79,7 +95,7 @@ Hands-on projects to strengthen your Go skills:
 * [To-Do](https://github.com/ShaimaaSabry/todo)
 
   
-<hr style="border: 1px solid #ccc;">
+---
 
 ### ☕ Learn Kotlin
 Explore Kotlin through fun and practical examples:
