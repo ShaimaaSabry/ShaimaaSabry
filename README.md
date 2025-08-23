@@ -44,8 +44,32 @@ Feel free to explore my projects and learn along the way!
 <a href="#" title="Spring Boot">
   <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" height="50" alt="Spring Boot">
 </a>
+<a href="#" title="mockito">
+  <img src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/org/mockito/logo.png" height="70" alt="mockito">
+</a>
+<a href="#" title="WireMock">
+  <img src="https://avatars.githubusercontent.com/u/21368587?s=280&v=4" height="50" alt="WireMock">
+</a>
 <a href="#" title="REST-assured">
-  <img src="https://avatars.githubusercontent.com/u/19369327?v=4" height="50" alt="REST-assured">
+  <img src="https://avatars.githubusercontent.com/u/19369327?v=4" height="40" alt="REST-assured">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- Databases -->
+<a href="#" title="PostgreSQL">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" height="50" alt="PostgreSQL" />
+</a>
+<a href="#" title="DynamoDB">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" height="50" alt="DynamoDB" />
+</a>
+<a href="#" title="MongoDB">
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/m/mongodb-icon-2.svg" height="50" alt="MongoDB" />
+</a>
+<a href="#" title="elasticsearch">
+  <img src="https://marketplace-assets.digitalocean.com/logos/elasticsearch.png" height="50" alt="elasticsearch" />
+</a>
+<a href="#" title="Qdrant">
+  <img src="https://avatars.githubusercontent.com/u/73504361?s=200&v=4" height="50" alt="Qdrant" />
 </a>
 
 ---
@@ -61,6 +85,8 @@ Discover some of the most widely used architecture styles: modular monolith, eve
 ### 🧩 Learn System Design
 Prepare for your system design interviews with practical implementations of well-known apps:
 
+<div>
+  
 <a href="https://github.com/ShaimaaSabry/typeahead" title="typeahead">
   <img src="https://www.tutorialrepublic.com/lib/images/bootstrap-5/twitter-typeahead.png" alt="typeahead" height="100">
 </a>
@@ -84,7 +110,7 @@ Prepare for your system design interviews with practical implementations of well
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx099QIe9XeS66WcARxiKvuJfAmHECMuOKiqTcb8Mu8QZSuCyf3OZsyhZIs-0Xbqodz24&usqp=CAU" alt="cache" height="100">
 </a>
 
-
+</div>
 
 ---
 
