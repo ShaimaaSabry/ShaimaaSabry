@@ -23,8 +23,31 @@ Feel free to explore my projects and learn along the way!
 
 <!-- Languages -->
 <a href="https://golang.org" title="Go">
-  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="100" height="100" alt="Go"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png" width="100" height="100" alt="Go">
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="#" title="Gin">
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="60" alt="Gin">
+</a>
+<a href="#" title="GORM">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*XBvxUxqycRC8B8KGCuzJVw.png" height="50" alt="GORM">
+</a>
+
+</a>
+<a href="#" title="Kotlin">
+  <img src="https://www.fugenx.com/wp-content/uploads/2021/06/kotlin.png" height="40" alt="Kotlin">
+</a>
+<a href="#" title="Java">
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="60" alt="Java">
+</a>
+<a href="#" title="Spring Boot">
+  <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" height="50" alt="Spring Boot">
+</a>
+<a href="#" title="REST-assured">
+  <img src="https://avatars.githubusercontent.com/u/19369327?v=4" height="50" alt="REST-assured">
+</a>
+
+
 
 <hr style="border: 1px solid #ccc;">
 
@@ -48,8 +71,7 @@ Prepare for your system design interviews with practical implementations of well
 
 <hr style="border: 1px solid #ccc;">
 
-### 🚀 Learn Go <a href="https://golang.org" title="Go"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="40" height="40" alt="Go"/></a>
-
+### 🚀 Learn Go 
 
 Hands-on projects to strengthen your Go skills:
 
