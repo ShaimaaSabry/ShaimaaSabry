@@ -89,6 +89,19 @@ Feel free to explore my projects and learn along the way!
   </a>
 </p>
 
+<!-- frontend -->
+<p align="center">
+  <a href="#" title="TypeScript">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" height="50" alt="TypeScript" />
+  </a>
+  <a href="#" title="React">
+    <img src="https://jeremyrajan.gallerycdn.vsassets.io/extensions/jeremyrajan/react-component/1.1.0/1661484884133/Microsoft.VisualStudio.Services.Icons.Default" height="50" alt="React" />
+  </a>
+  <a href="#" title="React Native">
+    <img src="https://jeremyrajan.gallerycdn.vsassets.io/extensions/jeremyrajan/react-component/1.1.0/1661484884133/Microsoft.VisualStudio.Services.Icons.Default" height="50" alt="React Native" />
+  </a>
+</p>
+
 ---
 
 ### 🏗 Learn Software Architecture
@@ -145,5 +158,20 @@ Hands-on projects to strengthen your Go skills:
 Explore Kotlin through fun and practical examples:
 
 * [Micromorts](https://github.com/ShaimaaSabry/Micromorts)
+
+---
+
+### ⚛️ Learn React
+Hands-on practical React examples:
+
+<a href="https://github.com/ShaimaaSabry/twitter-app" title="Twitter">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1200px-Logo_of_Twitter.svg.png" alt="Twitter" height="100">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/ShaimaaSabry/ticket-master-app" title="Ticket Master">
+    <img src="https://spot.io/wp-content/uploads/2023/05/case_study_logo_ticketmaster.png" alt="Ticket Master" height="100">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
